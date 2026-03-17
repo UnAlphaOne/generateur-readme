@@ -9,7 +9,7 @@
 
 **Créez des README magnifiques pour GitHub sans écrire une ligne de Markdown !**
 
-<img src="images/screenshot_principal.png" width="800" alt="Aperçu de l'application">
+<img src="screenshot_principal.png" width="800" alt="Aperçu de l'application">
 
 
 </div>
