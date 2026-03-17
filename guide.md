@@ -78,7 +78,7 @@ pip install tkinter pillow markdown pyautogui
 
 ## 🖥️ L'interface utilisateur
 
-<img src="images/screenshot_principal.png" width="800" alt="Interface de l'application">
+<img src="screenshot_principal.png" width="800" alt="Interface de l'application">
 
 ### 1. Barre de menu principale
 - **Fichier** : Nouveau, Ouvrir, Sauvegarder, Exporter, Quitter
